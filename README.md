@@ -48,7 +48,7 @@ Year 301 A.R. - In the Battle of the Star Phoenix, Edward Bloodmane meets his en
 
 Year 303 A.R. - To settle the loans contracted during the war, the new Emperor, Muller II, begins selling noble titles and land in his southern dominions near the city of Suarez.
 
-Year 313 A.R. - First bankruptcy of the empire. Emperor Muller I, overcome with shame, kills himself. His infant child, Benedict I, ascends to the throne with his mother as regent. In this dire situation, Muller I's grandfather, the first minister Heller Von Sternenstaub, assumes control of the economy. He navigates the crisis by negotiating unfair agreements with Maria and permits private expeditions into Saurotopia, violating Roland's solemn oath of never corrupting that sacred land.
+Year 313 A.R. - First bankruptcy of the empire. Emperor Muller II, overcome with shame, kills himself. His infant child, Benedict I, ascends to the throne with his mother as regent. In this dire situation, Benedict I's grandfather, the first minister Heller Von Sternenstaub, assumes control of the economy. He navigates the crisis by negotiating unfair agreements with Maria and permits private expeditions into Saurotopia, violating Roland's solemn oath of never corrupting that sacred land.
 
 Year 347 A.R. - The triumph of private expeditions leads to the colonization of the northwestern part of the empire. Driven by the scent of profits, merchants from the Sealt of Dunes decide to establish a trading hub between Saurotopia and the Great Dune, naming it New Oasis.
 
