@@ -4,7 +4,7 @@ Lit-RPG
 TIMELINE:
 Year 0 A.R. - Roland's birth.
 
-Year 14 A.R. - Roland and his companions receive the first gifts.
+Year 14 A.R. - Roland and his companions receive the first Gifts.
 
 Year 22 A.R. - Roland ascends to the throne as the first emperor of a unified Northern Continent.
 
@@ -14,7 +14,7 @@ Year 30 A.R. - First settlement in the Sealt of Dunes.
 
 Year 34 A.R. - Agreement between the Infinitesimal Etymologist and the Whenua natives to partition the Pacific Archipelago.
 
-Year 53 A.R. - Aries's Bank is established
+Year 53 A.R. - Aries's Bank is established.
 
 Year 70 A.R. - King Nagoe's death casts eternal darkness over his kingdom, emanating from his lifeless body buried in the depths of his capital.
 
@@ -60,7 +60,7 @@ Year 377 A.R. - The Second Siege of Maria concludes with the failure of the Ever
 
 Year 396 A.R. - A new mutiny erupts within the Constellation fleet.
 
-Year 399 A.R. - Von Sternenstaub and the rebels reach an agreement. The mutineers are permitted to escape to the east, finding refuge in the nation formed by the remnants of the Commando, primarily the Blodstjerne principality. The agreement states that anyone can join their exile, sparking a massive migration to the principality.
+Year 399 A.R. - Von Sternenstaub and the rebels reach an agreement. The mutineers are permitted to escape to the east, finding refuge in the nation formed by the remnants of the Commando, the Blodstjerne Principality. The agreement states that anyone can join their exile, sparking a massive migration to the principality.
 
 Year 450 A.R. - The Great Plague spread throughout the Seal of Dunes.
 
