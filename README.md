@@ -124,7 +124,7 @@ Year 943 A.R. - Miraval's Magic Institute discovers a method to artificially cre
 
 Year 988 A.R. - Peasants armed with magical items, the Old Nobility with their influence, and the New Nobility with their powerful Gifts engage in a colossal civil war for control of various political entities. Meanwhile, The Free City of Maria and the Evernightmare Kingdom have fun in the 9th Marian War.
 
-Year 1000 A.R. - Recognizing the unexpected strength of the new Essentias, a need for discipline and a shared conscience must be imposed on the new generation to prevent further conflicts. In response, Miraval's Academic is established as a neutral institution to educate the new generation, with all new Essentias mandated to join the academy.
+Year 1000 A.R. - Recognizing the unexpected strength of the new Essentias, a need for discipline and a shared conscience must be imposed on the new generation to prevent further conflicts. In response, Miraval's Academic is established as a neutral institution to educate the new generation, with all new Essentias mandated to join the it.
 
 Year 1022 A.R. - A Marian merchant utilizes magic stones to generate artificial wind, pioneering the creation of the first magic motorized ship and revolutionizing navigation forever.
 
