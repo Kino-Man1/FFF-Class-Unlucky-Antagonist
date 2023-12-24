@@ -56,7 +56,7 @@ Year 364 A.R. - The unfair treaties with Maria managed to salvage Roland Empire'
 
 year 366 A.R. - Marians set ablaze the city of Suarez, starting the Second Marian War.
 
-Year 377 A.R. - The Second Siege of Maria concludes with the failure of the Evernightmare besiegers, largely attributed to the Great Swamp's attrition. This defeat results in a second bankruptcy. Seizing the opportunity, Maria's podestà proposes covering the empire's debts in exchange for establishing fair and independent tribunals, aiming to handle disputes and prevent the persecution and conflicts that ignited the war.
+Year 377 A.R. - The Second Siege of Maria concludes with the Evernightmare besiegers' failure, largely attributed to the attrition caused by the Great Swamp. This defeat leads to a second bankruptcy. Capitalizing on the situation, Maria's podestà proposes covering the empire's debts in exchange for establishing fair and independent tribunals. The goal is to handle disputes, preventing the persecution and conflicts that initially fueled the war.
 
 Year 396 A.R. - A new mutiny erupts within the Constellation fleet.
 
@@ -68,7 +68,7 @@ Year 470 A.R. - Quarantining people inside the mines did not halt the spread of 
 
 Year 510 A.R. - The mana within the bodies of the mass graves in the Sealt mines triggered the opening of dungeons, unleashing monster invasions that further devastated the remaining population. Ninety percent of the original inhabitants had succumbed to the plague, leaving their once-thriving civilization in ruins. However, Sasazhav, positioned at the border of the Sealt and protected on all sides by the Crimson River, stood as the sole surviving city. Interestingly, the collapse of the Sealt Mines resulted in an upsurge in precious stones and minerals, ultimately stabilizing the empire's finances.
 
-Year 533 A.R. - Descendants of the Aragvi family embark on expeditions to their ancestral homeland in an attempt to recover riches and artifacts. 
+Year 533 A.R. - Descendants of the Swift family embark on expeditions to their ancestral homeland in an attempt to recover riches and artifacts. 
 
 Year 549 A.R. - Disputes over the control of the Great Swamp ignited the Third Marian War.
 
